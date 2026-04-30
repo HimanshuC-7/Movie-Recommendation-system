@@ -1,0 +1,57 @@
+# 🔐 Environment variables
+.env
+.env.*
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Virtual environments
+venv/
+env/
+ENV/
+
+# 📊 Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# 🧪 Testing / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# 🧾 Logs
+*.log
+
+# ⚙️ OS files
+.DS_Store
+Thumbs.db
+
+# 🧑‍💻 IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📦 Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🔑 Secrets / config
+*.key
+*.pem
+
+# 🗂️ Large data files (optional - adjust if needed)
+# Uncomment if you don't want to upload datasets
+# *.csv
+# *.zip
+
+# 🔥 Flask specific
+instance/
+.webassets-cache
+
+# 🚀 Deployment
+*.sqlite3
