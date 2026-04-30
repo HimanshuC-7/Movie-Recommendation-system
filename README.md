@@ -40,7 +40,7 @@ It also includes a **Netflix-style UI**, trending movies section, and dynamic po
 
 The project is live and deployed on Render:
 
-👉 Try it here: **[Click to Open App](https://your-app-name.onrender.com)**
+👉 Try it here: **[Click to Open Web Page](https://movie-recommendation-system-tzs1.onrender.com)**
 
 ---
 
